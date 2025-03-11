@@ -308,7 +308,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Defaults
 defaults:
