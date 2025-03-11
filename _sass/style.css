@@ -1,0 +1,20 @@
+/* 전체 웹사이트의 폰트 크기를 90%로 줄임 */
+body {
+    font-size: 90%;
+}
+
+/* 제목 태그(h1~h3) 크기 조정 */
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+h3 {
+    font-size: 1.3rem;
+}
+
+/* 테이블 내부 글씨 크기 조정 */
+table {
+    font-size: 85%;
+}
