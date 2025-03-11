@@ -3,7 +3,7 @@ main:
   - title: "Dorkem Github"
     url: https://github.com/dorkem
 
-    sidebar-category:
+sidebar-category:
   - title: "카테고리"
     children:
       - title: "블로그"
