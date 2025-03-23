@@ -8,6 +8,8 @@ sidebar-category:
     children:
       - title: "자바"
         url: "/javaStudy"
+      - title: "스프링 공부"
+        url: /springStudy/ 
       # - title: "카테고리B"
       #  url:  "/CategoryB"
       # - title: "카테고리C"
